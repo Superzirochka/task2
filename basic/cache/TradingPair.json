@@ -1,0 +1,11 @@
+[
+    {
+        "exchange": "BINANCE",
+        "screener": "crypto",
+        "symbols": [
+            "ETHUSDT",
+            "BTCUSDT",
+            "ETHBTC"
+        ]
+    }
+]
